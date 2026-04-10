@@ -1,0 +1,27 @@
+{
+  "name": "files",
+  "version": "1.0.0",
+  "description": "> NPC Board2Code Hackathon 2026 — Game Server",
+  "main": "gameEngine.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mandalsambuddha/tiki-topple-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mandalsambuddha/tiki-topple-backend/issues"
+  },
+  "homepage": "https://github.com/mandalsambuddha/tiki-topple-backend#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "uuid": "^13.0.0"
+  }
+}
